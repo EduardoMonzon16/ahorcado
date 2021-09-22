@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+}
+#frase {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 3px;
+}
+#entrada {
+    margin-bottom: 10px;
+}
